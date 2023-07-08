@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a687b7783ad004be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/Five Rings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a83eab6b9972f340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flow Traders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "ca330744ab35efd9",
@@ -153,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/DRW.md",
+                "file": "Flow Traders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/DRW.md",
+                "file": "Flow Traders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/DRW.md"
+                "file": "Flow Traders.md"
               }
             }
           }
@@ -214,18 +238,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de8253bdb8051e6c",
+  "active": "a83eab6b9972f340",
   "lastOpenFiles": [
-    "Companies/Chicago Trading Company.md",
+    "Company Research.md",
+    "Companies/Five Rings.md",
+    "Flow Traders.md",
+    "templates/Company Research.md",
     "Companies/DRW.md",
+    "Companies/Chicago Trading Company.md",
     "Companies/D. E. Shaw.md",
     "Companies/AQR Capital Management.md",
-    "templates/Company Research.md",
     "Companies/Cubist Systematic Strategies.md",
     "Companies/Citadel Securities.md",
     "Companies/Citadel.md",
     "Companies/Arrowstreet Capital.md",
-    "Company Research.md",
     "Companies/Aquatic.md",
     "Companies/Akuna Capital.md",
     "Companies/BAM.md",
