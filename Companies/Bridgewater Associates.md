@@ -7,6 +7,7 @@
 - LinkedIn Followers: 1,659
 
 ## Locations:
+- Westport, CT (Headquarters): 
 
 ## Links:
 - Company Website: https://www.bridgewater.com/

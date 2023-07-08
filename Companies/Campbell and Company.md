@@ -1,20 +1,22 @@
-## Company Name: BlackEdge Capital
+## Company Name: Campbell and Company
 
-## Company Type: Proprietary Trading
+## Company Type: Hedge Fund
 
 ## Company Size:
-- Number of Employees: 64
-- LinkedIn Followers: 5,577
+- Number of Employees: 60
+- LinkedIn Followers: 1,823
 
 ## Locations:
+Baltimore: 
 
 ## Links:
-- Company Website: https://www.blackedge.com/
-- LinkedIn Page: https://www.linkedin.com/company/blackedge-capital/
+- Company Website: https://www.campbell.com/
+- LinkedIn Page: https://www.linkedin.com/company/campbell-and-company/
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
 
 ## Source of Information:
+LinkedIn and company site
 
 ## Trading Style:
 - Preferred Markets: 
@@ -23,7 +25,7 @@
 ## Company Culture:
 - Mission Statement: 
 - Values: 
-- Employee Reviews (Glassdoor): 4.7/5 (11 reviews)
+- Employee Reviews (Glassdoor): 
   - Reported Positives:
   - Reported Negatives:
 

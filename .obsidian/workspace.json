@@ -20,43 +20,19 @@
             }
           },
           {
-            "id": "b4754865580a2b8f",
+            "id": "5f61d041bec167b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Belvedere Trading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db76f30340b8aba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/BlackEdge Capital.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42fbe813175875aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Bridgewater Associates.md",
+                "file": "Companies/Cubist Systematic Strategies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "ca330744ab35efd9",
@@ -153,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/BlackEdge Capital.md",
+                "file": "Companies/Cubist Systematic Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/BlackEdge Capital.md",
+                "file": "Companies/Cubist Systematic Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/BlackEdge Capital.md"
+                "file": "Companies/Cubist Systematic Strategies.md"
               }
             }
           }
@@ -214,18 +190,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db76f30340b8aba7",
+  "active": "1a4a9f0ef4037c8f",
   "lastOpenFiles": [
-    "Companies/Belvedere Trading.md",
-    "Companies/BlackEdge Capital.md",
-    "Companies/Bridgewater Associates.md",
+    "Companies/Citadel Securities.md",
+    "Companies/Cubist Systematic Strategies.md",
     "templates/Company Research.md",
+    "Companies/Citadel.md",
+    "Companies/Bridgewater Associates.md",
+    "Companies/Campbell and Company.md",
+    "Companies/Belvedere Trading.md",
+    "Companies/Chicago Trading Company.md",
+    "Companies/BlackEdge Capital.md",
     "Company Research.md",
-    "Companies/Arrowstreet Capital.md",
+    "Companies/Aquatic.md",
     "Companies/BAM.md",
+    "Companies/Arrowstreet Capital.md",
     "Untitled",
     "Companies/AQR Capital Management.md",
-    "Companies/Aquatic.md",
     "Companies/Akuna Capital.md",
     "Companies/Ansatz Capital.md",
     "templates",
