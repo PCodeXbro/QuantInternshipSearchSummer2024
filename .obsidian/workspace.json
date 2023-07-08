@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flow Traders.md",
+                "file": "Companies/Flow Traders.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flow Traders.md",
+                "file": "Companies/Flow Traders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flow Traders.md",
+                "file": "Companies/Flow Traders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flow Traders.md"
+                "file": "Companies/Flow Traders.md"
               }
             }
           }
@@ -238,11 +238,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a83eab6b9972f340",
+  "active": "1a4a9f0ef4037c8f",
   "lastOpenFiles": [
     "Company Research.md",
     "Companies/Five Rings.md",
-    "Flow Traders.md",
+    "Companies/Flow Traders.md",
     "templates/Company Research.md",
     "Companies/DRW.md",
     "Companies/Chicago Trading Company.md",
