@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49ddfd1890bc72c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/D. E. Shaw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de8253bdb8051e6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/DRW.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "ca330744ab35efd9",
@@ -62,7 +86,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/Cubist Systematic Strategies.md",
+                "file": "Companies/DRW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/Cubist Systematic Strategies.md",
+                "file": "Companies/DRW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/Cubist Systematic Strategies.md"
+                "file": "Companies/DRW.md"
               }
             }
           }
@@ -189,15 +214,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f61d041bec167b2",
+  "active": "de8253bdb8051e6c",
   "lastOpenFiles": [
-    "Companies/Citadel Securities.md",
+    "Companies/Chicago Trading Company.md",
+    "Companies/DRW.md",
+    "Companies/D. E. Shaw.md",
+    "Companies/AQR Capital Management.md",
+    "templates/Company Research.md",
     "Companies/Cubist Systematic Strategies.md",
+    "Companies/Citadel Securities.md",
     "Companies/Citadel.md",
     "Companies/Arrowstreet Capital.md",
     "Company Research.md",
-    "Companies/AQR Capital Management.md",
-    "templates/Company Research.md",
     "Companies/Aquatic.md",
     "Companies/Akuna Capital.md",
     "Companies/BAM.md",
@@ -205,7 +233,6 @@
     "Companies/BlackEdge Capital.md",
     "Companies/Bridgewater Associates.md",
     "Companies/Campbell and Company.md",
-    "Companies/Chicago Trading Company.md",
     "Untitled",
     "Companies/Ansatz Capital.md",
     "templates",
