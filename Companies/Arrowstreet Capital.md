@@ -39,6 +39,7 @@ LinkedIn and company site
 ## Why I'm Interested:
 
 ## Potential Challenges: 
+High interview difficulty (According to Northwestern fintech club)
 
 ## Strategy:
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.

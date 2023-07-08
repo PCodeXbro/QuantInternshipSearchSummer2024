@@ -44,6 +44,7 @@ LinkedIn and company site
 
 ## Strategy:
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+"A good way to get into the interview pipeline is through Citadel's Data Open competition." - Northwestern Fintech club
 
 ## Application Status:
 Applications open, not yet applied.

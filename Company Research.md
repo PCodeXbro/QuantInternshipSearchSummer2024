@@ -39,6 +39,9 @@
 ## Why I'm Interested:
 (Reflect on and articulate why you're interested in this internship. This will help you convey enthusiasm in your cover letter or interview. Also think about why you might prefer this company over others you're applying to.)
 
+## Potential Challenges:
+(List any potential challenges you might face during the application process or in performing the role. This could be related to your educational background, level of study, or any other factors that may pose a challenge. Also, briefly consider how you might address these challenges.)
+
 ## Strategy:
 (Identify steps you will take to apply to this company. This helps keep your job search organized and can improve your chances of success. Plan when you'll send out your batch of messages to recruiters.)
 
