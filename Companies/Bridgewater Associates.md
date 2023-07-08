@@ -40,7 +40,9 @@ LinkedIn and company site
 Beautiful office, very unique culture.
 
 ## Strategy:
+I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
 
 ## Application Status:
+Applications open, not yet applied.
 
 ## Updates:

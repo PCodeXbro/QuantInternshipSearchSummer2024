@@ -35,9 +35,9 @@
 ## Why I'm Interested:
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process. Applications officially open August.
 
 ## Application Status:
-Applications open, not yet applied.
+No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
 
 ## Updates:
