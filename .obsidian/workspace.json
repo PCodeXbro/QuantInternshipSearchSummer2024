@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "5bf525eba2530f05",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac4702fed7529f0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62dcde28246960fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/Akuna Capital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e1809781a3fa8fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ca330744ab35efd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc5f0baa34e1b15e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Company Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4754865580a2b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/Akuna Capital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e2965b969ee46ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0b2d8464a7dbc75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a4a9f0ef4037c8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2323ed7e74cf5c36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d6484e83e776ee2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34aef74f582bc6fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ede65423ac1c43e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42c9eb2023dc8609",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Companies/Akuna Capital.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f68765a397002bd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Companies/Akuna Capital.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9605898ae118fd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da7c545d987134b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Companies/Akuna Capital.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b4754865580a2b8f",
+  "lastOpenFiles": [
+    "Companies/Aquatic.md",
+    "Companies/AQR Capital Management.md",
+    "Companies/Akuna Capital.md",
+    "templates/Company Research.md",
+    "Company Research.md",
+    "Companies/Ansatz Capital.md",
+    "Untitled",
+    "templates",
+    "Untitled.canvas",
+    "Resources.md",
+    "People.md",
+    "Companies"
+  ]
+}
