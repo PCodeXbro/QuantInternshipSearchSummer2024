@@ -40,6 +40,8 @@ LinkedIn and company site
 
 ## Why I'm Interested:
 
+## Potential Challenges: 
+
 ## Strategy:
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
 

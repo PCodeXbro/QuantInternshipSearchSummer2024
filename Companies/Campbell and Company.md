@@ -36,6 +36,8 @@ LinkedIn and company site
 
 ## Why I'm Interested:
 
+## Potential Challenges: 
+
 ## Strategy:
 
 ## Application Status:

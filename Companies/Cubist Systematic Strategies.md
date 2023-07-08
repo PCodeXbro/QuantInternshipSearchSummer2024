@@ -36,6 +36,9 @@ LinkedIn and company website
 
 ## Why I'm Interested:
 
+## Potential Challenges: 
+- Masters/PhD requirement on internship application
+
 ## Strategy:
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
 
