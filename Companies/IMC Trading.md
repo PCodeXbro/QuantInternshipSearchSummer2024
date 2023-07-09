@@ -7,11 +7,11 @@
 - LinkedIn Followers: 1,816
 
 ## Locations:
-Amsterdam (Headquarters): 
-Chicago: 
-Mumbai: 
-Seoul: 
-Sydney: 
+- Amsterdam (Headquarters): 
+- Chicago: 
+- Mumbai: 
+- Seoul: 
+- Sydney: 
 
 ## Links:
 - Company Website: https://www.imc.com/us/

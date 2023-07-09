@@ -7,7 +7,7 @@
 - LinkedIn Followers: 1,823
 
 ## Locations:
-Baltimore: 
+- Baltimore: 
 
 ## Links:
 - Company Website: https://www.campbell.com/

@@ -7,8 +7,8 @@
 - LinkedIn Followers: 9,955
 
 ## Locations:
-New York (Headquarters): 
-London: 
+- New York (Headquarters): 
+- London: 
 
 ## Links:
 - Company Website: https://fiverings.com/

@@ -7,9 +7,9 @@
 - LinkedIn Followers: 3,626
 
 ## Locations:
-Chicago (Headquarters): 
-San Francisco: 
-London: 
+- Chicago (Headquarters): 
+- San Francisco: 
+- London: 
 
 ## Links:
 - Company Website: https://www.headlandstech.com/

@@ -7,17 +7,17 @@
 - LinkedIn Followers: 153,597
 
 ## Locations:
-New York (Headquarters): 
-Miami: 
-San Francisco: 
-London: 
-Dublin: 
-Paris:
-Geneva:
-Dubai:
-Singapore:
-Hong Kong: 
-Tokyo: 
+- New York (Headquarters): 
+- Miami: 
+- San Francisco: 
+- London: 
+ -Dublin: 
+- Paris:
+- Geneva:
+- Dubai:
+- Singapore:
+- Hong Kong: 
+- Tokyo: 
 
 ## Links:
 - Company Website: https://www.mlp.com/

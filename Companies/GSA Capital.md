@@ -7,8 +7,8 @@
 - LinkedIn Followers: 182
 
 ## Locations:
-London (Headquarters): 
-New York: 
+- London (Headquarters): 
+- New York: 
 
 ## Links:
 - Company Website: https://www.gsacapital.com/

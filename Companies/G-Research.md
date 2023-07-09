@@ -7,8 +7,8 @@
 - LinkedIn Followers: 34,794
 
 ## Locations:
-London (Headquarters): 
-Dallas: 
+- London (Headquarters): 
+- Dallas: 
 
 ## Links:
 - Company Website: https://www.gresearch.com/

@@ -7,7 +7,7 @@
 - LinkedIn Followers: 17,250
 
 ## Locations:
-Chicago (Headquarters): 
+- Chicago (Headquarters): 
 
 ## Links:
 - Company Website: https://geneva-trading.com/

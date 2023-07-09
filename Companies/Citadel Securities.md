@@ -7,9 +7,9 @@
 - LinkedIn Followers: 101,972
 
 ## Locations:
-Miami (Headquarters):
-Chicago: 
-New York: 
+- Miami (Headquarters):
+- Chicago: 
+- New York: 
 
 ## Links:
 - Company Website: https://www.citadelsecurities.com/

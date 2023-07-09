@@ -7,9 +7,9 @@
 - LinkedIn Followers: 248,169
 
 ## Locations:
-Miami: No internship opportunities from my understanding
-New York: 
-Chicago: 
+- Miami: No internship opportunities from my understanding
+- New York: 
+- Chicago: 
 
 ## Links:
 - Company Website: https://www.citadel.com/

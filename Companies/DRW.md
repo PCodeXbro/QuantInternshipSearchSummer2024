@@ -7,15 +7,15 @@
 - LinkedIn Followers: 
 
 ## Locations:
-Chicago (Headquarters): 
-Austin: 
-Houston: 
-New York: 
-Montreal: 
-Amsterdam: 
-London: 
-Tel Aviv: 
-Singapore: 
+- Chicago (Headquarters): 
+- Austin: 
+- Houston: 
+- New York: 
+- Montreal: 
+- Amsterdam: 
+- London: 
+- Tel Aviv: 
+- Singapore: 
 
 ## Links:
 - Company Website: https://drw.com/

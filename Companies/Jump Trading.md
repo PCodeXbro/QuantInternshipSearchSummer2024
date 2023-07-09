@@ -7,20 +7,20 @@
 - LinkedIn Followers: 56,085
 
 ## Locations:
-Chicago (Headquarters): 
-New York: 
-Austin: 
-London: 
-Tel Aviv: 
-Singapore: 
-Shanghai: 
-Bristol: 
-Gurgaon: 
-Gandhinagar:
-Sydney: 
-Amsterdam: 
-Hong Kong: 
-Paris: 
+- Chicago (Headquarters): 
+- New York: 
+- Austin: 
+- London: 
+- Tel Aviv: 
+- Singapore: 
+- Shanghai: 
+- Bristol: 
+- Gurgaon: 
+- Gandhinagar:
+- Sydney: 
+- Amsterdam: 
+- Hong Kong: 
+- Paris: 
 
 ## Links:
 - Company Website: https://www.jumptrading.com/

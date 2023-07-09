@@ -7,14 +7,14 @@
 - LinkedIn Followers: 55,378
 
 ## Locations:
-Amsterdam (Headquarters): 
-New York: 
-London: 
-Paris: 
-Milan: 
-Cluj-Napoca: 
-Hong Kong: 
-Singapore: 
+- Amsterdam (Headquarters): 
+- New York: 
+- London: 
+- Paris: 
+- Milan: 
+- Cluj-Napoca: 
+- Hong Kong: 
+- Singapore: 
 
 ## Links:
 - Company Website: https://www.flowtraders.com/

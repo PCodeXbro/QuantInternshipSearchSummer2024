@@ -7,14 +7,14 @@
 - LinkedIn Followers: 57,342
 
 ## Locations:
-New York (Headquarters): 
-Chicago: 
-Austin: 
-London: 
-Dublin: 
-Mumbai: 
-Pudong: 
-Singapore: 
+- New York (Headquarters): 
+- Chicago: 
+- Austin: 
+- London: 
+- Dublin: 
+- Mumbai: 
+- Pudong: 
+- Singapore: 
 
 ## Links:
 - Company Website: https://www.hudsonrivertrading.com/

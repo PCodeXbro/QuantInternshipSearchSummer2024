@@ -7,12 +7,12 @@
 - LinkedIn Followers: 16,473
 
 ## Locations:
-London (Headquarters): 
-Chicago: 
-New York: 
-Amsterdam: 
-Hong Kong: 
-Sydney: 
+- London (Headquarters): 
+- Chicago: 
+- New York: 
+- Amsterdam: 
+- Hong Kong: 
+- Sydney: 
 
 ## Links:
 - Company Website: https://www.mavensecurities.com/

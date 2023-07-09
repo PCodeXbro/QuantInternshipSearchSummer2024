@@ -7,7 +7,7 @@
 - LinkedIn Followers: 90
 
 ## Locations:
-New York (Headquarters): 
+- New York (Headquarters): 
 
 ## Links:
 - Company Website: https://www.hap-capital.com/

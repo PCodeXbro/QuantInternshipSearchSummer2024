@@ -7,11 +7,11 @@
 - LinkedIn Followers: 138,958
 
 ## Locations:
-New York (Headquarters): 
-Shanghai: 
-Singapore: 
-London: 
-India: 
+- New York (Headquarters): 
+- Shanghai: 
+- Singapore: 
+- London: 
+- India: 
 
 ## Links:
 - Company Website: https://www.deshaw.com/

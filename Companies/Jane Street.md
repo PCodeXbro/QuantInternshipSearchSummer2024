@@ -7,9 +7,9 @@
 - LinkedIn Followers: 140,712
 
 ## Locations:
-New York (Headquarters): 
-London: 
-Hong Kong: 
+- New York (Headquarters): 
+- London: 
+- Hong Kong: 
 
 ## Links:
 - Company Website: https://www.janestreet.com/

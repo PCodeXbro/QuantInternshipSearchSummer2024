@@ -7,9 +7,9 @@
 - LinkedIn Followers: 17,669
 
 ## Locations:
-London (Headquarters): 
-New York: 
-Hong Kong: 
+- London (Headquarters): 
+- New York: 
+- Hong Kong: 
 
 ## Links:
 - Company Website: https://www.mwam.com/
