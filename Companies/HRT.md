@@ -1,20 +1,27 @@
-## Company Name: G-Research
+## Company Name: Hudson River Trading
 
-## Company Type: 
+## Company Type: Proprietary Trading
 
 ## Company Size:
-- Number of Employees: 1,028
-- LinkedIn Followers: 34,794
+- Number of Employees: 978
+- LinkedIn Followers: 57,342
 
 ## Locations:
-London (Headquarters): 
-Dallas: 
+New York (Headquarters): 
+Chicago: 
+Austin: 
+London: 
+Dublin: 
+Mumbai: 
+Pudong: 
+Singapore: 
 
 ## Links:
-- Company Website: https://www.gresearch.com/
-- LinkedIn Page: https://www.linkedin.com/company/g-research/
+- Company Website: https://www.hudsonrivertrading.com/
+- LinkedIn Page: https://www.linkedin.com/company/hudson-river-trading/
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
+  - [Brittany Rhoa](https://www.linkedin.com/in/brittany-rhoa/)
 
 ## Source of Information:
 
@@ -25,9 +32,9 @@ Dallas:
 ## Company Culture:
 - Mission Statement: 
 - Values: 
-- Employee Reviews (Glassdoor): 3.8/5
-  - Reported Positives: Smart, Good tech
-  - Reported Negatives: Too much middle management
+- Employee Reviews (Glassdoor): 4.1/5
+  - Reported Positives: nice people, good place to learn
+  - Reported Negatives: Limited mobility, top down
 
 ## Quant Team and Internship Role:
 - Team Structure: 

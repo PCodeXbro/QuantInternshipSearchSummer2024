@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9f83961311626bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/HAP Capital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8de6c51071be293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/Headlands Technologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f2de3166ffe0eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies/HRT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "ca330744ab35efd9",
@@ -129,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/GSA Capital.md",
+                "file": "Companies/HRT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/GSA Capital.md",
+                "file": "Companies/HRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/GSA Capital.md"
+                "file": "Companies/HRT.md"
               }
             }
           }
@@ -192,34 +228,35 @@
   },
   "active": "1a4a9f0ef4037c8f",
   "lastOpenFiles": [
-    "templates/Company Research.md",
+    "Companies/Headlands Technologies.md",
     "Companies/GSA Capital.md",
+    "Companies/HRT.md",
+    "Companies/Geneva Trading.md",
+    "Companies/HAP Capital.md",
+    "templates/Company Research.md",
+    "Companies/BlackEdge Capital.md",
+    "Companies/Belvedere Trading.md",
+    "Companies/BAM.md",
     "Companies/Arrowstreet Capital.md",
+    "Companies/Akuna Capital.md",
+    "Companies/AQR Capital Management.md",
+    "Companies/Aquatic.md",
+    "Companies/G-Research.md",
     "Companies/Cubist Systematic Strategies.md",
     "Companies/Five Rings.md",
-    "Companies/Geneva Trading.md",
-    "Companies/G-Research.md",
     "Companies/Flow Traders.md",
     "Companies/D. E. Shaw.md",
     "Companies/DRW.md",
     "Company Research.md",
     "Companies/Chicago Trading Company.md",
-    "Companies/AQR Capital Management.md",
     "Companies/Citadel Securities.md",
     "Companies/Citadel.md",
-    "Companies/Aquatic.md",
-    "Companies/Akuna Capital.md",
-    "Companies/BAM.md",
-    "Companies/Belvedere Trading.md",
-    "Companies/BlackEdge Capital.md",
     "Companies/Bridgewater Associates.md",
     "Companies/Campbell and Company.md",
     "Untitled",
     "Companies/Ansatz Capital.md",
     "templates",
     "Untitled.canvas",
-    "Resources.md",
-    "People.md",
     "Companies"
   ]
 }

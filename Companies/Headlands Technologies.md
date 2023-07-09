@@ -1,18 +1,19 @@
-## Company Name: G-Research
+## Company Name: Headlands Technologies LLC
 
-## Company Type: 
+## Company Type: Proprietary Trading
 
 ## Company Size:
-- Number of Employees: 1,028
-- LinkedIn Followers: 34,794
+- Number of Employees: 116
+- LinkedIn Followers: 3,626
 
 ## Locations:
-London (Headquarters): 
-Dallas: 
+Chicago (Headquarters): 
+San Francisco: 
+London: 
 
 ## Links:
-- Company Website: https://www.gresearch.com/
-- LinkedIn Page: https://www.linkedin.com/company/g-research/
+- Company Website: https://www.headlandstech.com/
+- LinkedIn Page: https://www.linkedin.com/company/headlands_technologies_llc/
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
 
@@ -25,9 +26,9 @@ Dallas:
 ## Company Culture:
 - Mission Statement: 
 - Values: 
-- Employee Reviews (Glassdoor): 3.8/5
-  - Reported Positives: Smart, Good tech
-  - Reported Negatives: Too much middle management
+- Employee Reviews (Glassdoor): 3.6/5 (4 Reviews)
+  - Reported Positives: Culture
+  - Reported Negatives: 
 
 ## Quant Team and Internship Role:
 - Team Structure: 
@@ -37,6 +38,7 @@ Dallas:
 ## Why I'm Interested:
 
 ## Potential Challenges: 
+C++
 
 ## Strategy:
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
