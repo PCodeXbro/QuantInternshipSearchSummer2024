@@ -1,23 +1,36 @@
-## Company Name: Headlands Technologies LLC
+## Company Name: Jump Trading LLC
 
 ## Company Type: Proprietary Trading
 
 ## Company Size:
-- Number of Employees: 116
-- LinkedIn Followers: 3,626
+- Number of Employees: 1,432
+- LinkedIn Followers: 56,085
 
 ## Locations:
 Chicago (Headquarters): 
-San Francisco: 
+New York: 
+Austin: 
 London: 
+Tel Aviv: 
+Singapore: 
+Shanghai: 
+Bristol: 
+Gurgaon: 
+Gandhinagar:
+Sydney: 
+Amsterdam: 
+Hong Kong: 
+Paris: 
 
 ## Links:
-- Company Website: https://www.headlandstech.com/
-- LinkedIn Page: https://www.linkedin.com/company/headlands_technologies_llc/
+- Company Website: https://www.jumptrading.com/
+- LinkedIn Page: https://www.linkedin.com/company/jump-trading/
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
+  - [Emily Whalen](https://www.linkedin.com/in/emily-whalen-449a1b3/)
 
 ## Source of Information:
+LinkedIn and company site
 
 ## Trading Style:
 - Preferred Markets: 
@@ -26,19 +39,18 @@ London:
 ## Company Culture:
 - Mission Statement: 
 - Values: 
-- Employee Reviews (Glassdoor): 3.6/5 (4 Reviews)
-  - Reported Positives: Culture
-  - Reported Negatives: 
+- Employee Reviews (Glassdoor): 4.6/5
+  - Reported Positives: Culture, People, Transparency, Offices
+  - Reported Negatives: Less opportunities for new employees
 
 ## Quant Team and Internship Role:
 - Team Structure: 
 - Internship Role Descriptions: 
-- Technologies/Tools Used: Big C++ Focus
+- Technologies/Tools Used: 
 
 ## Why I'm Interested:
 
 ## Potential Challenges: 
-C++
 
 ## Strategy:
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
