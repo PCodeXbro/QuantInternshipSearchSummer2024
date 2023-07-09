@@ -8,79 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62dcde28246960fa",
+            "id": "ba6811a736a5392b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Arrowstreet Capital.md",
+                "file": "Companies/Schonfeld.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6eba78da42609b70",
+            "id": "1f04831bc867e2f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/GSA Capital.md",
+                "file": "Companies/Seven Eight Capital.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a9f83961311626bd",
+            "id": "347f6721da828a45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Jump Trading.md",
+                "file": "Companies/SIG.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8c2cb08f24bc708c",
+            "id": "36b7d6be1c0153c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Marshall Wace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "796bffb74f7b9118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Maven Securities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4adc7e6b4ba91c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Millennium Management.md",
+                "file": "Companies/Squarepoint.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "ca330744ab35efd9",
@@ -177,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/Millennium Management.md",
+                "file": "Companies/Squarepoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/Millennium Management.md",
+                "file": "Companies/Squarepoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/Millennium Management.md"
+                "file": "Companies/Squarepoint.md"
               }
             }
           }
@@ -238,12 +214,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4adc7e6b4ba91c6",
+  "active": "1a4a9f0ef4037c8f",
   "lastOpenFiles": [
+    "Companies/Citadel.md",
+    "Companies/SIG.md",
+    "Companies/Squarepoint.md",
+    "Companies/Millennium Management.md",
+    "Companies/Old Mission.md",
+    "Companies/Optiver.md",
+    "Companies/PDT Partners.md",
+    "Companies/PEAK6.md",
+    "Companies/QuantLab.md",
+    "Companies/Radix Trading.md",
+    "Companies/Renaissance.md",
+    "Companies/Schonfeld.md",
+    "Companies/Seven Eight Capital.md",
+    "templates/Company Research.md",
+    "Companies/Jane Street.md",
     "Companies/Maven Securities.md",
     "Companies/Marshall Wace.md",
     "Companies/Jump Trading.md",
-    "Companies/Jane Street.md",
+    "Company Research.md",
     "Companies/IMC Trading.md",
     "Companies/HRT.md",
     "Companies/Headlands Technologies.md",
@@ -251,21 +242,6 @@
     "Companies/GSA Capital.md",
     "Companies/Geneva Trading.md",
     "Companies/G-Research.md",
-    "Companies/Flow Traders.md",
-    "Companies/Five Rings.md",
-    "Companies/DRW.md",
-    "Companies/D. E. Shaw.md",
-    "Companies/Cubist Systematic Strategies.md",
-    "Companies/Citadel Securities.md",
-    "Companies/Citadel.md",
-    "Companies/Chicago Trading Company.md",
-    "Companies/Campbell and Company.md",
-    "Companies/Millennium Management.md",
-    "templates/Company Research.md",
-    "Companies/Bridgewater Associates.md",
-    "Companies/BlackEdge Capital.md",
-    "Companies/Belvedere Trading.md",
-    "Companies/BAM.md",
     "Untitled",
     "templates",
     "Untitled.canvas",
