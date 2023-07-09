@@ -1,16 +1,19 @@
-## Company Name: BlackEdge Capital
+## Company Name: Marshall Wace
 
-## Company Type: Proprietary Trading
+## Company Type: Hedge Fund
 
 ## Company Size:
-- Number of Employees: 64
-- LinkedIn Followers: 5,577
+- Number of Employees: 512
+- LinkedIn Followers: 17,669
 
 ## Locations:
+London (Headquarters): 
+New York: 
+Hong Kong: 
 
 ## Links:
-- Company Website: https://www.blackedge.com/
-- LinkedIn Page: https://www.linkedin.com/company/blackedge-capital/
+- Company Website: https://www.mwam.com/
+- LinkedIn Page: https://www.linkedin.com/company/marshall-wace/
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
 
@@ -23,9 +26,9 @@
 ## Company Culture:
 - Mission Statement: 
 - Values: 
-- Employee Reviews (Glassdoor): 4.7/5 (11 reviews)
-  - Reported Positives:
-  - Reported Negatives:
+- Employee Reviews (Glassdoor): 4.1/5
+  - Reported Positives: Amenities, Improvement focused, Philanthropy
+  - Reported Negatives: Infrequent feedback
 
 ## Quant Team and Internship Role:
 - Team Structure: 

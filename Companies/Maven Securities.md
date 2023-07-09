@@ -1,17 +1,22 @@
-## Company Name: Campbell and Company
+## Company Name: Maven Securities
 
-## Company Type: Hedge Fund
+## Company Type: Proprietary Trading + Market Making
 
 ## Company Size:
-- Number of Employees: 60
-- LinkedIn Followers: 1,823
+- Number of Employees: 351
+- LinkedIn Followers: 16,473
 
 ## Locations:
-Baltimore: 
+London (Headquarters): 
+Chicago: 
+New York: 
+Amsterdam: 
+Hong Kong: 
+Sydney: 
 
 ## Links:
-- Company Website: https://www.campbell.com/
-- LinkedIn Page: https://www.linkedin.com/company/campbell-and-company/
+- Company Website: https://www.mavensecurities.com/
+- LinkedIn Page: https://www.linkedin.com/company/maven-securities/
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
 
@@ -25,9 +30,9 @@ LinkedIn and company site
 ## Company Culture:
 - Mission Statement: 
 - Values: 
-- Employee Reviews (Glassdoor): 
-  - Reported Positives:
-  - Reported Negatives:
+- Employee Reviews (Glassdoor): 4.6/5
+  - Reported Positives: Office, Amenities 
+  - Reported Negatives: Opportunities depend on company performance
 
 ## Quant Team and Internship Role:
 - Team Structure: 

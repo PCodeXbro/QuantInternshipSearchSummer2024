@@ -50,5 +50,6 @@ Extremely school-selective
 ## Strategy:
 
 ## Application Status:
+Applications open, not yet applied.
 
 ## Updates:

@@ -44,5 +44,6 @@ Seems to want great university standing
 ## Strategy:
 
 ## Application Status:
+Applications open, not yet applied.
 
 ## Updates:

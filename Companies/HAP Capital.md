@@ -42,5 +42,6 @@ LinkedIn and company site
 ## Strategy:
 
 ## Application Status:
+No open applications.
 
 ## Updates:
