@@ -1,29 +1,23 @@
-## Company Name: Flow Traders
+## Company Name: Geneva Trading
 
 ## Company Type: Proprietary Trading
 
 ## Company Size:
-- Number of Employees: 693
-- LinkedIn Followers: 55,378
+- Number of Employees: 224
+- LinkedIn Followers: 17,250
 
 ## Locations:
-Amsterdam (Headquarters): 
-New York: 
-London: 
-Paris: 
-Milan: 
-Cluj-Napoca: 
-Hong Kong: 
-Singapore: 
+Chicago (Headquarters): 
 
 ## Links:
-- Company Website: https://www.flowtraders.com/
-- LinkedIn Page: https://www.linkedin.com/company/flow-traders/
+- Company Website: https://geneva-trading.com/
+- LinkedIn Page: https://www.linkedin.com/company/genevatrading/
 - Quant Internship Job Posts: 
-- Relevant Recruiters' LinkedIn Profiles: 
-  - [Clare Kanaley](https://www.linkedin.com/in/clare-kanaley/)
+- Relevant Recruiters' LinkedIn Profiles:
+  - [Marilé Quintana](https://www.linkedin.com/in/marilequintana/)
 
 ## Source of Information:
+LinkedIn and company site
 
 ## Trading Style:
 - Preferred Markets: 
@@ -33,8 +27,8 @@ Singapore:
 - Mission Statement: 
 - Values: 
 - Employee Reviews (Glassdoor): 4.2/5
-  - Reported Positives: Autonomy
-  - Reported Negatives: Greedy CEO
+  - Reported Positives: Smart people, Good place to learn, CEO
+  - Reported Negatives: Higher-ups
 
 ## Quant Team and Internship Role:
 - Team Structure: 

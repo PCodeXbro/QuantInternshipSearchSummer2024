@@ -1,27 +1,20 @@
-## Company Name: Flow Traders
+## Company Name: G-Research
 
-## Company Type: Proprietary Trading
+## Company Type:
 
 ## Company Size:
-- Number of Employees: 693
-- LinkedIn Followers: 55,378
+- Number of Employees: 
+- LinkedIn Followers: 
 
 ## Locations:
-Amsterdam (Headquarters): 
-New York: 
-London: 
-Paris: 
-Milan: 
-Cluj-Napoca: 
-Hong Kong: 
-Singapore: 
+London (Headquarters): 
+Dallas: 
 
 ## Links:
-- Company Website: https://www.flowtraders.com/
-- LinkedIn Page: https://www.linkedin.com/company/flow-traders/
+- Company Website: 
+- LinkedIn Page: 
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Clare Kanaley](https://www.linkedin.com/in/clare-kanaley/)
 
 ## Source of Information:
 
@@ -32,9 +25,9 @@ Singapore:
 ## Company Culture:
 - Mission Statement: 
 - Values: 
-- Employee Reviews (Glassdoor): 4.2/5
-  - Reported Positives: Autonomy
-  - Reported Negatives: Greedy CEO
+- Employee Reviews (Glassdoor): 3.8/5
+  - Reported Positives: Smart, Good tech
+  - Reported Negatives: Too much middle management
 
 ## Quant Team and Internship Role:
 - Team Structure: 

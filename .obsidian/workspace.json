@@ -20,67 +20,19 @@
             }
           },
           {
-            "id": "5f61d041bec167b2",
+            "id": "6eba78da42609b70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Cubist Systematic Strategies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49ddfd1890bc72c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/D. E. Shaw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de8253bdb8051e6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/DRW.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a687b7783ad004be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Five Rings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a83eab6b9972f340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Flow Traders.md",
+                "file": "GSA Capital.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "ca330744ab35efd9",
@@ -177,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/Flow Traders.md",
+                "file": "GSA Capital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/Flow Traders.md",
+                "file": "GSA Capital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/Flow Traders.md"
+                "file": "GSA Capital.md"
               }
             }
           }
@@ -238,20 +190,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4a9f0ef4037c8f",
+  "active": "6eba78da42609b70",
   "lastOpenFiles": [
-    "Company Research.md",
-    "Companies/Five Rings.md",
-    "Companies/Flow Traders.md",
     "templates/Company Research.md",
-    "Companies/DRW.md",
-    "Companies/Chicago Trading Company.md",
-    "Companies/D. E. Shaw.md",
-    "Companies/AQR Capital Management.md",
+    "GSA Capital.md",
+    "Companies/Arrowstreet Capital.md",
     "Companies/Cubist Systematic Strategies.md",
+    "Companies/Five Rings.md",
+    "Companies/Geneva Trading.md",
+    "Companies/G-Research.md",
+    "Companies/Flow Traders.md",
+    "Companies/D. E. Shaw.md",
+    "Companies/DRW.md",
+    "Company Research.md",
+    "Companies/Chicago Trading Company.md",
+    "Companies/AQR Capital Management.md",
     "Companies/Citadel Securities.md",
     "Companies/Citadel.md",
-    "Companies/Arrowstreet Capital.md",
     "Companies/Aquatic.md",
     "Companies/Akuna Capital.md",
     "Companies/BAM.md",
