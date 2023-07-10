@@ -37,7 +37,6 @@
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Tonya Horton](https://www.linkedin.com/in/tonya-horton-b8a6a221/)
-  - 
 
 ## Source of Information:
 

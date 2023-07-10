@@ -12,7 +12,7 @@
 - New York:
 
 ## Links:
-- Company Website: 
+- Company Website: https://www.aquatic.com/
 - LinkedIn Page: https://www.linkedin.com/company/aquatic/
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 

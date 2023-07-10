@@ -15,6 +15,7 @@
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Emily Donlon](https://www.linkedin.com/in/emily-donlon-5b7555103/)
+  - [Shannon Rosati](https://www.linkedin.com/in/shannon-rosati-7a42b3161/)
 
 ## Source of Information:
 LinkedIn and company site

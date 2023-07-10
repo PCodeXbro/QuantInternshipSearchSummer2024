@@ -25,182 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Seven Eight Capital.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "347f6721da828a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/SIG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36b7d6be1c0153c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Squarepoint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6047882329c5e093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/TGS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "769e601be6fe04a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Tower Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84706d6a714fa07a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/TransMarket Group.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54d23dacfa34125b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Two Sigma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff24fbf4d8836002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Valkyrie Trading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4f69a6e1aa2990d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Vatic Investments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9971a1883ac68e4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Virtu Financial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95b50ae2e1498c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Voleon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df95ed970288d539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Company Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08fe4e465f467fc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/WorldQuant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 13
-      },
-      {
-        "id": "ca330744ab35efd9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc5f0baa34e1b15e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Company Research.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e1809781a3fa8fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Company Research.md",
+                "file": "Companies/Citadel.md",
                 "mode": "source",
                 "source": false
               }
@@ -273,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Companies/Citadel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Companies/Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Companies/Citadel.md"
+              }
             }
           }
         ]
@@ -330,34 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4a9f0ef4037c8f",
+  "active": "1f04831bc867e2f1",
   "lastOpenFiles": [
-    "templates/Company Research.md",
-    "XTX Markets.md",
-    "Companies/WorldQuant.md",
-    "Companies/Wolverine.md",
-    "Company Research.md",
-    "Companies/Virtu Financial.md",
-    "Companies/Voleon.md",
-    "Companies/Vatic Investments.md",
-    "Companies/QuantLab.md",
-    "Companies/Radix Trading.md",
-    "Companies/Two Sigma.md",
-    "Companies/Valkyrie Trading.md",
     "Companies/TransMarket Group.md",
+    "Companies/Akuna Capital.md",
+    "Companies/Belvedere Trading.md",
+    "Companies/AQR Capital Management.md",
+    "Companies/Aquatic.md",
+    "Companies/Arrowstreet Capital.md",
+    "Companies/Campbell and Company.md",
+    "Companies/Flow Traders.md",
+    "Companies/D. E. Shaw.md",
+    "Companies/HAP Capital.md",
+    "Companies/WorldQuant.md",
+    "Companies/Optiver.md",
+    "Companies/Citadel Securities.md",
+    "Companies/PEAK6.md",
+    "Companies/QuantLab.md",
+    "Companies/SIG.md",
+    "Companies/Squarepoint.md",
+    "Companies/Valkyrie Trading.md",
+    "Companies/Millennium Management.md",
+    "Companies/Seven Eight Capital.md",
+    "Company Research.md",
     "Companies/TGS.md",
     "Companies/Tower Research.md",
-    "Companies/Jane Street.md",
-    "Companies/Optiver.md",
-    "Companies/Citadel.md",
-    "Companies/Squarepoint.md",
-    "Companies/Renaissance.md",
-    "Companies/Schonfeld.md",
-    "Companies/Seven Eight Capital.md",
-    "Companies/SIG.md",
-    "Companies/Millennium Management.md",
-    "Companies/Old Mission.md",
-    "Companies/PDT Partners.md",
+    "Companies/Two Sigma.md",
+    "Companies/Vatic Investments.md",
+    "Companies/Virtu Financial.md",
     "Untitled",
     "templates",
     "Untitled.canvas",
