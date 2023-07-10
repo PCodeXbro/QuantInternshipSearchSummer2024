@@ -21,6 +21,7 @@
 - Company Website: https://drw.com/
 - LinkedIn Page: https://www.linkedin.com/company/drw/
 - Quant Internship Job Posts: 
+  - https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Katie Stamas](https://www.linkedin.com/in/katiestamas/)
 
@@ -50,6 +51,6 @@
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
 
 ## Application Status:
-No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
+Applications open, not yet applied.
 
 ## Updates:

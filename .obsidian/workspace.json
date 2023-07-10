@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Citadel.md",
+                "file": "Companies/DRW.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/Citadel.md",
+                "file": "Companies/DRW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/Citadel.md",
+                "file": "Companies/DRW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/Citadel.md"
+                "file": "Companies/DRW.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "1f04831bc867e2f1",
   "lastOpenFiles": [
+    "Companies/Citadel.md",
+    "Companies/DRW.md",
     "Companies/TransMarket Group.md",
     "Companies/Akuna Capital.md",
     "Companies/Belvedere Trading.md",
@@ -185,8 +187,6 @@
     "Companies/TGS.md",
     "Companies/Tower Research.md",
     "Companies/Two Sigma.md",
-    "Companies/Vatic Investments.md",
-    "Companies/Virtu Financial.md",
     "Untitled",
     "templates",
     "Untitled.canvas",
