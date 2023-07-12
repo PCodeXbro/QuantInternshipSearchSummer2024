@@ -18,7 +18,7 @@
   - https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/
   - https://www.citadel.com/careers/details/investment-trading-intern-us/
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [SaraBeth Ribot](https://www.linkedin.com/in/sbribot/)
+  - [SaraBeth Ribot](https://www.linkedin.com/in/sbribot/) - sarabeth.ribot@citadel.com
 
 ## Source of Information:
 Grady, LinkedIn, and company site
@@ -45,7 +45,7 @@ Grady, LinkedIn, and company site
 School-selective
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Emailed SaraBeth 7/11/2023, waiting for response.
 
 ## Application Status:
 Applications open, not yet applied.

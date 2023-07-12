@@ -16,7 +16,8 @@
   - https://boards.greenhouse.io/bridgewater89/jobs/6725478002
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Spencer Markinson](https://www.linkedin.com/in/spencermarkinson/)
-  - [Jason Koulouras](https://www.linkedin.com/in/jasonkoulouras/)
+  - [Jason Koulouras](https://www.linkedin.com/in/jasonkoulouras/) - jasonkoulouras@bridgewater.com
+  - [Lucinda Sweazey](https://www.linkedin.com/in/lucindasweazey/) - lucinda.j.sweazey@gmail.com
 
 ## Source of Information:
 LinkedIn and company site
@@ -43,7 +44,7 @@ Beautiful office, very unique culture.
 ## Potential Challenges: 
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Sent email to Lucinda 7/11/23, waiting for response.
 
 ## Application Status:
 Applications open, not yet applied.

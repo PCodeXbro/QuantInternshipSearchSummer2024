@@ -3,8 +3,8 @@
 ## Company Type:
 
 ## Company Size:
-- Number of Employees: 
-- LinkedIn Followers: 
+- Number of Employees: 1,738
+- LinkedIn Followers: 46,883
 
 ## Locations:
 - Chicago (Headquarters): 
@@ -23,12 +23,13 @@
 - Quant Internship Job Posts: 
   - https://drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-2551092
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Katie Stamas](https://www.linkedin.com/in/katiestamas/)
+  - [Katie Stamas](https://www.linkedin.com/in/katiestamas/) - kstamas@drw.com
+  - [Mara Vavaroutsos](https://www.linkedin.com/in/mara-vavaroutsos/) - mvavaroutsos@drw.com
 
 ## Source of Information:
 
 ## Trading Style:
-- Preferred Markets: 
+- Preferred Markets: Varied. Diversified trading groups, 
 - Quant Trading Proportion: 
 
 ## Company Culture:
@@ -48,7 +49,7 @@
 ## Potential Challenges: 
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Emailed Mara Vavaroutsos on 7/11/23, waiting for reply. 
 
 ## Application Status:
 Applications open, not yet applied.

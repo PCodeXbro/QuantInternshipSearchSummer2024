@@ -7,13 +7,16 @@
 - LinkedIn Followers: 9,875
 
 ## Locations:
+New York: 
 
 ## Links:
 - Company Website: https://point72.com/cubist/
 - LinkedIn Page: https://www.linkedin.com/company/cubist-systematic-strategies/
 - Quant Internship Job Posts: 
   - https://careers.point72.com/CSJobDetail?jobName=quantitative-research-intern&jobCode=CSS-0010019&retURL=/CSCareerSearch
+  - https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069&retURL=/CSCareerSearch
 - Relevant Recruiters' LinkedIn Profiles: 
+  - [Nicole T. Peterson](https://www.linkedin.com/in/nicoletpeterson/) - nicole.t@point72.com
 
 ## Source of Information:
 LinkedIn and company website
@@ -37,10 +40,9 @@ LinkedIn and company website
 ## Why I'm Interested:
 
 ## Potential Challenges: 
-- Masters/PhD requirement on internship application
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Attempted to email Nicole, email did not go through. Sent Nicole LinkedIn connection request.
 
 ## Application Status:
 Applications open, not yet applied.

@@ -26,7 +26,7 @@
 - Quant Internship Job Posts: 
   - [Non-Specific](https://www.squarepoint-capital.com/careers#s5)
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Dani McColl](https://www.linkedin.com/in/dani-mccoll-5a140526/)
+  - [Natalie Belvedere](https://www.linkedin.com/in/nataliebelvedere/) - natalie.belvedere@squarepoint-capital.com
 
 ## Source of Information:
 
@@ -51,7 +51,7 @@
 ## Potential Challenges: 
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Sent email to Natalie 7/11/23, waiting for response.
 
 ## Application Status:
 Applications open, not yet applied.

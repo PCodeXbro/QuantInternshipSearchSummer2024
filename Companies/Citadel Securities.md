@@ -17,7 +17,7 @@
 - Quant Internship Job Posts: 
   - https://www.citadelsecurities.com/careers/details/quantitative-trading-intern-us/
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Stephanie Bacha](https://www.linkedin.com/in/stephanie-bacha-b11729129/)
+  - [Stephanie Bacha](https://www.linkedin.com/in/stephanie-bacha-b11729129/) - stephanie.bacha@citadelsecurities.com
 
 ## Source of Information:
 LinkedIn and company site
@@ -43,7 +43,7 @@ LinkedIn and company site
 ## Potential Challenges: 
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Emailed Stephanie 7/11/2023, waiting for response.
 "A good way to get into the interview pipeline is through Citadel's Data Open competition." - Northwestern Fintech club
 
 ## Application Status:

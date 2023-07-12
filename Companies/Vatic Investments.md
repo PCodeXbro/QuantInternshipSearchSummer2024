@@ -15,7 +15,7 @@
 - Quant Internship Job Posts: 
   - http://www.vaticinvestments.com/careers/?gh_jid=1751323
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Kayla Crowe](https://www.linkedin.com/in/kayla-crowe-76a17696/)
+  - [Kayla Crowe](https://www.linkedin.com/in/kayla-crowe-76a17696/) - kayla.crowe@vaticinvestments.com
 
 ## Source of Information:
 
@@ -43,6 +43,6 @@ Internship lists Master's/PhD as requirement
 ## Strategy:
 
 ## Application Status:
-Applications open, not yet applied.
+Sent email to Kayla 7/11/23, waiting for response.
 
 ## Updates:

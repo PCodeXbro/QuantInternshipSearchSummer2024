@@ -25,7 +25,7 @@
 - Quant Internship Job Posts: 
   - https://www.tower-research.com/open-positions/?gh_jid=4360111
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Jaiyin Li](https://www.linkedin.com/in/jiayinli/)
+  - [Jaiyin Li](https://www.linkedin.com/in/jiayinli/) - jiayin.li@tower-research.com
 
 ## Source of Information:
 
@@ -50,7 +50,7 @@
 ## Potential Challenges: 
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Sent email to Jaiyin 7/11/23, waiting for response.
 
 ## Application Status:
 Applications open, not yet applied.

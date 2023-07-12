@@ -21,7 +21,7 @@
   - https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2024-4800
   - https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2024-4706
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Margaret Stolte](https://www.linkedin.com/in/margaretstolte/)
+  - [Margaret Stolte](https://www.linkedin.com/in/margaretstolte/) - margaret.stolte@deshaw.com
 
 ## Source of Information:
 LinkedIn and company site
@@ -48,6 +48,7 @@ LinkedIn and company site
 Extremely school-selective
 
 ## Strategy:
+Attempted to email Margaret, email did not go through. Sent Margaret LinkedIn message.
 
 ## Application Status:
 Applications open, not yet applied.

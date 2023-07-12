@@ -23,7 +23,7 @@
 - Quant Internship Job Posts: 
   - https://optiver.com/working-at-optiver/career-opportunities/6793142002/
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Brandon Nguyen](https://www.linkedin.com/in/brandonnguyen1/)
+  - [Brianna Miller](https://www.linkedin.com/in/brianna-miller-44013768/) - briannamiller@optiver.com
 
 ## Source of Information:
 LinkedIn and company site
@@ -49,7 +49,7 @@ LinkedIn and company site
 ## Potential Challenges: 
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Sent email to Brianna 7/11/23, waiting for response.
 
 ## Application Status:
 Applications open, not yet applied.

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/DRW.md",
+                "file": "Companies/WorldQuant.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/DRW.md",
+                "file": "Companies/WorldQuant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/DRW.md",
+                "file": "Companies/WorldQuant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/DRW.md"
+                "file": "Companies/WorldQuant.md"
               }
             }
           }
@@ -161,32 +161,32 @@
   },
   "active": "1f04831bc867e2f1",
   "lastOpenFiles": [
-    "Companies/Citadel.md",
-    "Companies/DRW.md",
-    "Companies/TransMarket Group.md",
-    "Companies/Akuna Capital.md",
-    "Companies/Belvedere Trading.md",
-    "Companies/AQR Capital Management.md",
-    "Companies/Aquatic.md",
-    "Companies/Arrowstreet Capital.md",
-    "Companies/Campbell and Company.md",
-    "Companies/Flow Traders.md",
-    "Companies/D. E. Shaw.md",
-    "Companies/HAP Capital.md",
-    "Companies/WorldQuant.md",
-    "Companies/Optiver.md",
-    "Companies/Citadel Securities.md",
-    "Companies/PEAK6.md",
-    "Companies/QuantLab.md",
-    "Companies/SIG.md",
-    "Companies/Squarepoint.md",
+    "Companies/Wolverine.md",
+    "Companies/Voleon.md",
+    "Companies/Virtu Financial.md",
+    "Companies/Vatic Investments.md",
     "Companies/Valkyrie Trading.md",
-    "Companies/Millennium Management.md",
-    "Companies/Seven Eight Capital.md",
-    "Company Research.md",
-    "Companies/TGS.md",
-    "Companies/Tower Research.md",
     "Companies/Two Sigma.md",
+    "Companies/TransMarket Group.md",
+    "Companies/Tower Research.md",
+    "Companies/TGS.md",
+    "Companies/Squarepoint.md",
+    "Companies/SIG.md",
+    "Companies/Seven Eight Capital.md",
+    "Companies/Schonfeld.md",
+    "Companies/Renaissance.md",
+    "Companies/Radix Trading.md",
+    "Companies/QuantLab.md",
+    "Companies/PEAK6.md",
+    "Companies/PDT Partners.md",
+    "Companies/Optiver.md",
+    "Companies/Old Mission.md",
+    "Companies/Millennium Management.md",
+    "Companies/Maven Securities.md",
+    "Companies/Marshall Wace.md",
+    "Companies/Jump Trading.md",
+    "Companies/Jane Street.md",
+    "Companies/IMC Trading.md",
     "Untitled",
     "templates",
     "Untitled.canvas",

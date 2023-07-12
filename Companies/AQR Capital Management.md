@@ -22,7 +22,7 @@
 - Quant Internship Job Posts: 
   - https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927?gh_jid=4478927#/
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Amra Garcia-Tunon](https://www.linkedin.com/in/amra-garcia-tunon-3b956611/)
+  - [Amra Garcia-Tunon](https://www.linkedin.com/in/amra-garcia-tunon-3b956611/) - amra.garcia-tunon@aqr.com
 
 ## Source of Information:
 LinkedIn and Company Website
@@ -49,9 +49,9 @@ QUANTA Academy sounds really interesting.
 ## Potential Challenges: 
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Sent email to Arma 7/11/23, waiting for response.
 
 ## Application Status:
-No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
+Applications open, not yet applied.
 
 ## Updates:
