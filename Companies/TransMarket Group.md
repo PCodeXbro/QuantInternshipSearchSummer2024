@@ -42,6 +42,7 @@
 
 ## Strategy:
 Sent email to Maeve 7/11/23, waiting for response.
+Maeve replied 7/12/23 asking for resume, which I attached in my reply.
 
 ## Application Status:
 Applications open, not yet applied.

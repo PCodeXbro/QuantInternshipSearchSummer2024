@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/WorldQuant.md",
+                "file": "Companies/Citadel Securities.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/WorldQuant.md",
+                "file": "Companies/Citadel Securities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/WorldQuant.md",
+                "file": "Companies/Citadel Securities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/WorldQuant.md"
+                "file": "Companies/Citadel Securities.md"
               }
             }
           }
@@ -161,14 +161,23 @@
   },
   "active": "1f04831bc867e2f1",
   "lastOpenFiles": [
-    "DakotaRossiResumeJuly2023.pdf",
-    "Companies/Wolverine.md",
-    "Companies/Voleon.md",
-    "Companies/Virtu Financial.md",
+    "Companies/BlackEdge Capital.md",
+    "Companies/Arrowstreet Capital.md",
+    "Companies/AQR Capital Management.md",
+    "Companies/Akuna Capital.md",
     "Companies/Vatic Investments.md",
+    "Companies/Virtu Financial.md",
+    "Companies/Voleon.md",
+    "DakotaRossiResumeJuly2023.pdf",
+    "Companies/DRW.md",
+    "Companies/IMC Trading.md",
+    "Companies/HRT.md",
+    "Companies/Cubist Systematic Strategies.md",
+    "Companies/TransMarket Group.md",
+    "Companies/WorldQuant.md",
+    "Companies/Wolverine.md",
     "Companies/Valkyrie Trading.md",
     "Companies/Two Sigma.md",
-    "Companies/TransMarket Group.md",
     "Companies/Tower Research.md",
     "Companies/TGS.md",
     "Companies/Squarepoint.md",
@@ -179,14 +188,6 @@
     "Companies/Radix Trading.md",
     "Companies/QuantLab.md",
     "Companies/PEAK6.md",
-    "Companies/PDT Partners.md",
-    "Companies/Optiver.md",
-    "Companies/Old Mission.md",
-    "Companies/Millennium Management.md",
-    "Companies/Maven Securities.md",
-    "Companies/Marshall Wace.md",
-    "Companies/Jump Trading.md",
-    "Companies/Jane Street.md",
     "Untitled",
     "templates",
     "Untitled.canvas",

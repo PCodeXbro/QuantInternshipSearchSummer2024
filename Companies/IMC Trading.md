@@ -19,6 +19,7 @@
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Andrew Saenz](https://www.linkedin.com/in/andrew-l-saenz-07a3784a/)
+  - [Christine McMillion](https://www.linkedin.com/in/christinemcmillion/) - christine.mcmillion@imc.com
 
 ## Source of Information:
 Grady, LinkedIn, company site
@@ -45,7 +46,7 @@ First quant role I learned about, company culture seems fantastic, benefits soun
 ## Potential Challenges: 
 
 ## Strategy:
-Work with Grady to develop IMC-specific plan, perhaps with a referral. 
+Message Christine saying 'Grady told me to reach out' when internship opportunities open up.
 
 ## Application Status:
 No open applications.

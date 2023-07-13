@@ -43,8 +43,9 @@ LinkedIn and company website
 
 ## Strategy:
 Attempted to email Nicole, email did not go through. Sent Nicole LinkedIn connection request.
+Nicole replied recommending to apply online, but is willing to answer questions. Conversation in LinkedIn.
 
 ## Application Status:
-Applications open, not yet applied.
+Applied 7/12/23.
 
 ## Updates:
