@@ -34,6 +34,7 @@
 - Team Structure: 
 - Internship Role Descriptions: 
 - Technologies/Tools Used: 
+- Est. Salary: $2300/wk
 
 ## Why I'm Interested:
 

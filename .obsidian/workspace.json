@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Citadel Securities.md",
+                "file": "Companies/WorldQuant.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/Citadel Securities.md",
+                "file": "Companies/WorldQuant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/Citadel Securities.md",
+                "file": "Companies/WorldQuant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/Citadel Securities.md"
+                "file": "Companies/WorldQuant.md"
               }
             }
           }
@@ -159,27 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f04831bc867e2f1",
+  "active": "1a4a9f0ef4037c8f",
   "lastOpenFiles": [
-    "Companies/BlackEdge Capital.md",
-    "Companies/Arrowstreet Capital.md",
-    "Companies/AQR Capital Management.md",
-    "Companies/Akuna Capital.md",
-    "Companies/Vatic Investments.md",
-    "Companies/Virtu Financial.md",
-    "Companies/Voleon.md",
-    "DakotaRossiResumeJuly2023.pdf",
-    "Companies/DRW.md",
-    "Companies/IMC Trading.md",
-    "Companies/HRT.md",
-    "Companies/Cubist Systematic Strategies.md",
-    "Companies/TransMarket Group.md",
-    "Companies/WorldQuant.md",
     "Companies/Wolverine.md",
+    "Companies/Voleon.md",
+    "Companies/Virtu Financial.md",
+    "Companies/Vatic Investments.md",
     "Companies/Valkyrie Trading.md",
     "Companies/Two Sigma.md",
-    "Companies/Tower Research.md",
+    "Companies/TransMarket Group.md",
     "Companies/TGS.md",
+    "Companies/Tower Research.md",
     "Companies/Squarepoint.md",
     "Companies/SIG.md",
     "Companies/Seven Eight Capital.md",
@@ -188,6 +178,16 @@
     "Companies/Radix Trading.md",
     "Companies/QuantLab.md",
     "Companies/PEAK6.md",
+    "Companies/PDT Partners.md",
+    "Companies/Optiver.md",
+    "Companies/Old Mission.md",
+    "Companies/Millennium Management.md",
+    "Companies/Maven Securities.md",
+    "Companies/Marshall Wace.md",
+    "Companies/Jump Trading.md",
+    "Companies/Jane Street.md",
+    "Companies/IMC Trading.md",
+    "DakotaRossiResumeJuly2023.pdf",
     "Untitled",
     "templates",
     "Untitled.canvas",

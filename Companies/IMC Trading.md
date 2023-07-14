@@ -39,6 +39,7 @@ Grady, LinkedIn, company site
 - Team Structure: Flat
 - Internship Role Descriptions: 
 - Technologies/Tools Used: 
+- Est. Salary: $3350/wk
 
 ## Why I'm Interested:
 First quant role I learned about, company culture seems fantastic, benefits sound great, would love to learn here.

@@ -43,6 +43,7 @@
 - Team Structure: 
 - Internship Role Descriptions: 
 - Technologies/Tools Used: 
+- Est. Salary: $3350/wk
 
 ## Why I'm Interested:
 
@@ -50,6 +51,7 @@
 
 ## Strategy:
 Emailed Mara Vavaroutsos on 7/11/23, waiting for reply. 
+Maeve replied 7/13/23 asking for resume, which I attached in my reply.
 
 ## Application Status:
 Applications open, not yet applied.

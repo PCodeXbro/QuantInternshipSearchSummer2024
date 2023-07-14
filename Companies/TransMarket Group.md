@@ -35,6 +35,7 @@
 - Team Structure: Flat
 - Internship Role Descriptions: 
 - Technologies/Tools Used: 
+- Est. Salary: $1000/wk
 
 ## Why I'm Interested:
 
@@ -43,6 +44,7 @@
 ## Strategy:
 Sent email to Maeve 7/11/23, waiting for response.
 Maeve replied 7/12/23 asking for resume, which I attached in my reply.
+Maeve replied scheduling discussion, waiting to hear when she is free.
 
 ## Application Status:
 Applications open, not yet applied.

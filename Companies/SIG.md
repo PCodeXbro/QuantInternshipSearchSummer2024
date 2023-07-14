@@ -36,6 +36,7 @@
 - Team Structure: 
 - Internship Role Descriptions: 
 - Technologies/Tools Used: 
+- Est. Salary: $4000/wk
 
 ## Why I'm Interested:
 Smaller city may be nice for internship.

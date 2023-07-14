@@ -34,6 +34,7 @@ LinkedIn and company site
 - Team Structure: 
 - Internship Role Descriptions: 
 - Technologies/Tools Used: 
+- Est. Salary: $1400/wk
 
 ## Why I'm Interested:
 
