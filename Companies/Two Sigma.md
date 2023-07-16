@@ -17,6 +17,7 @@
 - Company Website: https://www.twosigma.com/
 - LinkedIn Page: https://www.linkedin.com/company/two-sigma-investments/
 - Quant Internship Job Posts: 
+  - https://careers.twosigma.com/careers/DashJobDetail?jobId=12004
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Helen Yip](https://www.linkedin.com/in/helen-yip/)
   - [Tommy Grassey](https://www.linkedin.com/in/tommy-grassey-764397173/)
@@ -39,16 +40,16 @@
 - Team Structure: 
 - Internship Role Descriptions: 
 - Technologies/Tools Used: 
-- Est. Salary: $4250/wk
+- Est. Salary: $3500/wk
 
 ## Why I'm Interested:
 
 ## Potential Challenges: 
 
 ## Strategy:
-Need to create strategy for Jane Street
+Contact Tommy and/or Helen on LinkedIn
 
 ## Application Status:
-No open applications.
+Applications open, not yet applied.
 
 ## Updates:
