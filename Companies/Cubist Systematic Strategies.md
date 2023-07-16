@@ -17,6 +17,7 @@ New York:
   - https://careers.point72.com/CSJobDetail?jobName=summer-2024-quantitative-developer-internship&jobCode=CSS-0010069&retURL=/CSCareerSearch
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Nicole T. Peterson](https://www.linkedin.com/in/nicoletpeterson/) - nicole.t@point72.com
+  - [Lei Xu](https://www.linkedin.com/in/lei-xu-94ba4624/) 
 
 ## Source of Information:
 LinkedIn and company website
@@ -45,6 +46,8 @@ LinkedIn and company website
 ## Strategy:
 Attempted to email Nicole, email did not go through. Sent Nicole LinkedIn connection request.
 Nicole replied recommending to apply online, but is willing to answer questions. Conversation in LinkedIn.
+
+Also messaging Lei Xu
 
 ## Application Status:
 Applied 7/12/23.

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Two Sigma.md",
+                "file": "Companies/Cubist Systematic Strategies.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/Two Sigma.md",
+                "file": "Companies/Cubist Systematic Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/Two Sigma.md",
+                "file": "Companies/Cubist Systematic Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/Two Sigma.md"
+                "file": "Companies/Cubist Systematic Strategies.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "1f04831bc867e2f1",
   "lastOpenFiles": [
-    "Companies/Valkyrie Trading.md",
+    "DakotaRossiResumeJuly2023.pdf",
     "Companies/Two Sigma.md",
+    "Companies/Valkyrie Trading.md",
     "Companies/TransMarket Group.md",
     "Companies/Old Mission.md",
     "Companies/DRW.md",
@@ -186,8 +187,6 @@
     "Companies/Millennium Management.md",
     "Companies/Maven Securities.md",
     "Companies/Marshall Wace.md",
-    "Companies/Jump Trading.md",
-    "DakotaRossiResumeJuly2023.pdf",
     "Untitled",
     "templates",
     "Untitled.canvas",
