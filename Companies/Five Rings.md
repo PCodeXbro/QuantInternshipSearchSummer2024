@@ -15,7 +15,7 @@
 - LinkedIn Page: https://www.linkedin.com/company/fiverings/
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Emily Selzam](https://www.linkedin.com/in/emilyselzam/)
+  - [Emily Selzam](https://www.linkedin.com/in/emilyselzam/) - eselzam@fiverings.com
 
 ## Source of Information:
 LinkedIn and company site

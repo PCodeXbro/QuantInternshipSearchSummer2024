@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/Schonfeld.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f04831bc867e2f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Companies/Cubist Systematic Strategies.md",
+                "file": "Companies/SIG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/Cubist Systematic Strategies.md",
+                "file": "Companies/SIG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/Cubist Systematic Strategies.md",
+                "file": "Companies/SIG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/Cubist Systematic Strategies.md"
+                "file": "Companies/SIG.md"
               }
             }
           }
@@ -159,16 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f04831bc867e2f1",
+  "active": "ba6811a736a5392b",
   "lastOpenFiles": [
-    "DakotaRossiResumeJuly2023.pdf",
-    "Companies/Two Sigma.md",
-    "Companies/Valkyrie Trading.md",
+    "Companies/Jane Street.md",
+    "Companies/Five Rings.md",
     "Companies/TransMarket Group.md",
+    "Companies/Schonfeld.md",
+    "().md",
+    "Companies/WorldQuant.md",
+    "Companies/Akuna Capital.md",
+    "Companies/AQR Capital Management.md",
+    "Companies/Two Sigma.md",
+    "Companies/Cubist Systematic Strategies.md",
+    "DakotaRossiResumeJuly2023.pdf",
+    "Companies/Valkyrie Trading.md",
     "Companies/Old Mission.md",
     "Companies/DRW.md",
     "Companies/TGS.md",
-    "Companies/WorldQuant.md",
     "Companies/Wolverine.md",
     "Companies/Voleon.md",
     "Companies/Virtu Financial.md",
@@ -177,16 +171,10 @@
     "Companies/Squarepoint.md",
     "Companies/SIG.md",
     "Companies/Seven Eight Capital.md",
-    "Companies/Schonfeld.md",
     "Companies/Renaissance.md",
     "Companies/Radix Trading.md",
     "Companies/QuantLab.md",
     "Companies/PEAK6.md",
-    "Companies/PDT Partners.md",
-    "Companies/Optiver.md",
-    "Companies/Millennium Management.md",
-    "Companies/Maven Securities.md",
-    "Companies/Marshall Wace.md",
     "Untitled",
     "templates",
     "Untitled.canvas",

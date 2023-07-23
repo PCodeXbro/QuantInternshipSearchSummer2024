@@ -17,12 +17,13 @@
 - Company Website: https://akunacapital.com/
 - LinkedIn Page: https://www.linkedin.com/company/akuna-capital/
 - Quant Internship Job Posts: 
+  - [Quant Research](https://akunacapital.com/job-details?gh_jid=5147854)
+  - [Trading](https://akunacapital.com/job-details?gh_jid=5132302)
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Connie Lu](https://www.linkedin.com/in/connie-lu-05866b79/)
-  - [Emily Wilbar](https://www.linkedin.com/in/emily-wilbar/)
-  - [Sydney Kelsey](https://www.linkedin.com/in/sydney-kelsey-heim-42084942/)
-  - [Colette Jaeger](https://www.linkedin.com/in/colette-jaeger-b5201672/)
-  - [Lauren Bachman](https://www.linkedin.com/in/lbachman/)
+  - [Emily Wilbar](https://www.linkedin.com/in/emily-wilbar/) - emily.wilbar@akunacapital.com
+  - [Sydney Kelsey](https://www.linkedin.com/in/sydney-kelsey-heim-42084942/) - sydney.kelsey@akunacapital.com
+  - [Colette Jaeger](https://www.linkedin.com/in/colette-jaeger-b5201672/) - colette.jaeger@akunacapital.com
+  - [Lauren Bachman](https://www.linkedin.com/in/lbachman/) - lauren.bachman@akunacapital.com
 
 ## Source of Information:
 LinkedIn and company website
@@ -49,7 +50,7 @@ LinkedIn and company website
 ## Potential Challenges: 
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Emailed Sydney on 7/18/23, waiting for reply.
 
 ## Application Status:
 No open applications. Planning to send a LinkedIn message to the recruiter on Monday.

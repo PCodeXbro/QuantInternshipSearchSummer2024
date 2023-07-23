@@ -19,8 +19,8 @@
 - Quant Internship Job Posts: 
   - https://careers.twosigma.com/careers/DashJobDetail?jobId=12004
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Helen Yip](https://www.linkedin.com/in/helen-yip/)
-  - [Tommy Grassey](https://www.linkedin.com/in/tommy-grassey-764397173/)
+  - [Helen Yip](https://www.linkedin.com/in/helen-yip/) - helen.yip@twosigma.com
+  - [Tommy Grassey](https://www.linkedin.com/in/tommy-grassey-764397173/) - tommy.grassey@twosigma.com
   - [Hali Simons](https://www.linkedin.com/in/halifsimons/)
 
 ## Source of Information:

@@ -15,6 +15,8 @@
 - Company Website: https://www.sig.com/
 - LinkedIn Page: https://www.linkedin.com/company/susquehanna-international-group-llp-sig/
 - Quant Internship Job Posts: 
+  - [Equity Research (Chicago)](https://careers.sig.com/job/7285/Equity-Research-Intern-Chicago)
+  - [Trading](https://careers.sig.com/job/7300/Trading-Intern-Philadelphia-Area)
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Elizabeth Goldenberg](https://www.linkedin.com/in/egoldenberg9/)
   - [Sarah Wulk](https://www.linkedin.com/in/sarahwulk/)
