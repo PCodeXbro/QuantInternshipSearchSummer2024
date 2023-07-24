@@ -24,6 +24,7 @@
   - https://optiver.com/working-at-optiver/career-opportunities/6793142002/
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Brianna Miller](https://www.linkedin.com/in/brianna-miller-44013768/) - briannamiller@optiver.com
+  - [Caroline Schwartz](https://www.linkedin.com/in/caroline-schwartz-29629336/) - carolineschwartz@optiver.com
 
 ## Source of Information:
 LinkedIn and company site
@@ -51,6 +52,7 @@ LinkedIn and company site
 
 ## Strategy:
 Sent email to Brianna 7/11/23, waiting for response.
+Sent email to Caroline 7/24/23, waiting for response.
 
 ## Application Status:
 Applications open, not yet applied.

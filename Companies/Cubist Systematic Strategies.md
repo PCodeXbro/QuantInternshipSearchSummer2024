@@ -44,10 +44,10 @@ LinkedIn and company website
 ## Potential Challenges: 
 
 ## Strategy:
-Attempted to email Nicole, email did not go through. Sent Nicole LinkedIn connection request.
+Attempted to email Nicole, email did not go through. Sent Nicole LinkedIn connection request. (7/11)
 Nicole replied recommending to apply online, but is willing to answer questions. Conversation in LinkedIn.
 
-Also messaging Lei Xu
+Also messaged Lei Xu on 7/16, no reply
 
 ## Application Status:
 Applied 7/12/23.

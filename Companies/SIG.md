@@ -18,8 +18,8 @@
   - [Equity Research (Chicago)](https://careers.sig.com/job/7285/Equity-Research-Intern-Chicago)
   - [Trading](https://careers.sig.com/job/7300/Trading-Intern-Philadelphia-Area)
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Elizabeth Goldenberg](https://www.linkedin.com/in/egoldenberg9/)
-  - [Sarah Wulk](https://www.linkedin.com/in/sarahwulk/)
+  - [Elizabeth Goldenberg](https://www.linkedin.com/in/egoldenberg9/) - elizabeth.goldenberg@sig.com
+  - [Sarah Wulk](https://www.linkedin.com/in/sarahwulk/) - sarah.wulk@sig.com
 
 ## Source of Information:
 
@@ -46,9 +46,9 @@ Smaller city may be nice for internship.
 ## Potential Challenges: 
 
 ## Strategy:
-Need to create strategy for SIG
+Emailed Elizabeth 7/24/23, waiting for reply
 
 ## Application Status:
-Only current open applications are for SWE.
+Applications opened for assorted roles, not yet applied.
 
 ## Updates:

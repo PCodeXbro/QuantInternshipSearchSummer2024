@@ -50,6 +50,6 @@
 Contact Tommy and/or Helen on LinkedIn
 
 ## Application Status:
-Applications open, not yet applied.
+Emailed Helen 7/17/23, waiting for reply
 
 ## Updates:

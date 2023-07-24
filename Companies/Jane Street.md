@@ -48,7 +48,7 @@ Comfortable, fun culture. School-agnostic. Gold gold gold standard for program, 
 Transparent interview process means more competitive applicants.
 
 ## Strategy:
-Message Lauren Monday
+Emailed Lauren 7/24/23, waiting for reply
 
 ## Application Status:
 Applications open, not yet applied
