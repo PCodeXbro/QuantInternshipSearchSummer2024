@@ -20,6 +20,7 @@
 - Company Website: https://www.hudsonrivertrading.com/
 - LinkedIn Page: https://www.linkedin.com/company/hudson-river-trading/
 - Quant Internship Job Posts: 
+  - [Algo Dev](https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271783)
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Brittany Rhoa](https://www.linkedin.com/in/brittany-rhoa/)
 

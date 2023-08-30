@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Company List.md",
+                "file": "Companies/HRT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Company List.md",
+                "file": "Companies/HRT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Company List.md",
+                "file": "Companies/HRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Company List.md"
+                "file": "Companies/HRT.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "9fb8e4fc35d075e3",
   "lastOpenFiles": [
+    "Companies/TransMarket Group.md",
+    "Company List.md",
     "Companies/Akuna Capital.md",
     "Companies/GSA Capital.md",
-    "Company List.md",
     "Companies/Voleon.md",
     "Companies/WorldQuant.md",
     "Companies/Wolverine.md",
@@ -173,7 +174,6 @@
     "Companies/BAM.md",
     "Companies/Arrowstreet Capital.md",
     "Companies/AQR Capital Management.md",
-    "Companies/Aquatic.md",
     "DakotaRossiResumeJuly2023.pdf",
     "Resources/Pasted image 20230816164030.png",
     "Resources/Pasted image 20230816164043.png",
