@@ -51,6 +51,5 @@
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
 
 ## Application Status:
-No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
-
+Applications open, applied 8/30.
 ## Updates:
