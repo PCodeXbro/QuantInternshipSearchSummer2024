@@ -26,8 +26,10 @@
 - Company Website: https://www.jumptrading.com/
 - LinkedIn Page: https://www.linkedin.com/company/jump-trading/
 - Quant Internship Job Posts: 
+  - [Research](https://www.jumptrading.com/careers/4674090/)
+  - [Trading](https://www.jumptrading.com/careers/5070997/)
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Emily Whalen](https://www.linkedin.com/in/emily-whalen-449a1b3/)
+  - [Emily Whalen](https://www.linkedin.com/in/emily-whalen-449a1b3/) - ewhalen@jumptrading.com
 
 ## Source of Information:
 LinkedIn and company site
@@ -57,6 +59,6 @@ LinkedIn and company site
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
 
 ## Application Status:
-No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
+Applied 8/16/23.
 
 ## Updates:

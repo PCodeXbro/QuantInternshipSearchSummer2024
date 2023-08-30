@@ -28,7 +28,7 @@
 - Company Website: https://peak6.com/
 - LinkedIn Page: https://www.linkedin.com/company/peak6-investments/
 - Quant Internship Job Posts: 
-  - [No current openings](https://peak6.com/careers/?l=&q=intern#jointheparty)
+  - [Trading Internship for Women+_](https://careers.peak6.com/jobs/business-operation-services/chicago-illinois-united-states-of-america/trading-internship-for-women-/JR100524#/)
 - Relevant Recruiters' LinkedIn Profiles: 
 
 ## Source of Information:
@@ -54,7 +54,6 @@
 
 ## Potential Challenges: 
 Internships focused on women.
-
 ## Strategy:
 
 ## Application Status:

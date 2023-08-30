@@ -12,7 +12,8 @@
 ## Links:
 - Company Website: https://geneva-trading.com/
 - LinkedIn Page: https://www.linkedin.com/company/genevatrading/
-- Quant Internship Job Posts: 
+- Quant Internship Job Posts:
+  - [Quant Trading](https://www.chicagotrading.com/posting?req=4252076005&campus=1)
 - Relevant Recruiters' LinkedIn Profiles:
   - [Marilé Quintana](https://www.linkedin.com/in/marilequintana/)
 
@@ -44,6 +45,6 @@ LinkedIn and company site
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
 
 ## Application Status:
-No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
+Opens 9/1.
 
 ## Updates:

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac4702fed7529f0f",
+        "id": "53e9e0b0fac5d831",
         "type": "tabs",
         "children": [
           {
-            "id": "ba6811a736a5392b",
+            "id": "9fb8e4fc35d075e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Companies/DRW.md",
+                "file": "Company List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/DRW.md",
+                "file": "Company List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/DRW.md",
+                "file": "Company List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Companies/DRW.md"
+                "file": "Company List.md"
               }
             }
           }
@@ -146,38 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4a9f0ef4037c8f",
+  "active": "9fb8e4fc35d075e3",
   "lastOpenFiles": [
-    "DakotaRossiResumeJuly2023.pdf",
-    "DakotaRossiResumeJuly2023-2.pdf",
-    "Companies/SIG.md",
-    "Companies/Jane Street.md",
-    "Companies/Five Rings.md",
-    "Companies/BAM.md",
-    "Companies/Arrowstreet Capital.md",
-    "Companies/Aquatic.md",
-    "Companies/AQR Capital Management.md",
     "Companies/Akuna Capital.md",
+    "Companies/GSA Capital.md",
+    "Company List.md",
+    "Companies/Voleon.md",
     "Companies/WorldQuant.md",
     "Companies/Wolverine.md",
-    "Companies/Voleon.md",
-    "Companies/Virtu Financial.md",
-    "Companies/Vatic Investments.md",
-    "Companies/Valkyrie Trading.md",
-    "Companies/Two Sigma.md",
-    "Companies/TransMarket Group.md",
-    "Companies/Tower Research.md",
     "Companies/TGS.md",
-    "Companies/Squarepoint.md",
     "Companies/Seven Eight Capital.md",
     "Companies/Schonfeld.md",
     "Companies/Renaissance.md",
     "Companies/Radix Trading.md",
-    "Companies/QuantLab.md",
-    "Companies/PEAK6.md",
-    "Untitled",
-    "templates",
+    "Companies/PDT Partners.md",
+    "Companies/Optiver.md",
+    "Companies/Maven Securities.md",
+    "Companies/Marshall Wace.md",
+    "Companies/Headlands Technologies.md",
+    "Companies/HAP Capital.md",
+    "Companies/G-Research.md",
+    "Companies/DRW.md",
+    "Companies/Cubist Systematic Strategies.md",
+    "Companies/Campbell and Company.md",
+    "Companies/BlackEdge Capital.md",
+    "Companies/BAM.md",
+    "Companies/Arrowstreet Capital.md",
+    "Companies/AQR Capital Management.md",
+    "Companies/Aquatic.md",
+    "DakotaRossiResumeJuly2023.pdf",
+    "Resources/Pasted image 20230816164030.png",
+    "Resources/Pasted image 20230816164043.png",
+    "Resources",
     "Untitled.canvas",
+    "DakotaRossiResumeJuly2023-3.pdf",
+    "DakotaRossiResumeJuly2023-2.pdf",
+    "templates",
     "Companies"
   ]
 }

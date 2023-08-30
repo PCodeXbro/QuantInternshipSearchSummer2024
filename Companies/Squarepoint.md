@@ -55,6 +55,6 @@
 Sent email to Natalie 7/11/23, waiting for response.
 
 ## Application Status:
-Applications open, not yet applied.
+Applications open, applied.
 
 ## Updates:

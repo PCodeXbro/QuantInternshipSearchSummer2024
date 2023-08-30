@@ -46,6 +46,6 @@ Very school-selective
 Emailed Emily 7/24/23, waiting for reply
 
 ## Application Status:
-Applications open, not yet applied.
+Applications open, applied 8/23.
 
 ## Updates:

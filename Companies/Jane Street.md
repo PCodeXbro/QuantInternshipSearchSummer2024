@@ -51,6 +51,6 @@ Transparent interview process means more competitive applicants.
 Emailed Lauren 7/24/23, waiting for reply
 
 ## Application Status:
-Applications open, not yet applied
+Applied, rejected.
 
 ## Updates:

@@ -49,6 +49,6 @@ Smaller city may be nice for internship.
 Emailed Elizabeth 7/24/23, waiting for reply
 
 ## Application Status:
-Applications opened for assorted roles, not yet applied.
+Applied to both linked roles. Completed OA for both. Rejected from Trader.
 
 ## Updates:

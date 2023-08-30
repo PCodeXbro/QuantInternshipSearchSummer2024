@@ -16,6 +16,7 @@
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Kristin Adams](https://www.linkedin.com/in/kristin-adams-74573269/)
   - [Robin Plimpton-Magee](https://www.linkedin.com/in/robin-plimpton-magee-754a257/)
+  - [Adriana Soundara](https://www.linkedin.com/in/adriana-soundara-m-s-hr-3800495/) - asoundara@arrowstreetcapital.com
 
 ## Source of Information:
 LinkedIn and company site
@@ -43,9 +44,9 @@ LinkedIn and company site
 High interview difficulty (According to Northwestern fintech club)
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Emailed Adriana 8/4/23, waiting for reply.
 
 ## Application Status:
-No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
+Applications open, applied 8/23.
 
 ## Updates:

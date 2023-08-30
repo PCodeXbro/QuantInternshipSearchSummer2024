@@ -46,9 +46,9 @@ Grady, LinkedIn, and company site
 School-selective
 
 ## Strategy:
-Emailed SaraBeth 7/11/2023, waiting for response.
+Emailed SaraBeth 7/11/2023, rejected.
 
 ## Application Status:
-Applications open, not yet applied.
+Applications open, applied 8/10/23 (same application as [Citadel Securities](Citadel Securities)).
 
 ## Updates:

@@ -48,8 +48,8 @@
 
 ## Strategy:
 Contact Tommy and/or Helen on LinkedIn
-
+Messaged Helen.
 ## Application Status:
-Emailed Helen 7/17/23, waiting for reply
+Applications opened, applied.
 
 ## Updates:

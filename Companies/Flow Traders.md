@@ -21,7 +21,7 @@
 - LinkedIn Page: https://www.linkedin.com/company/flow-traders/
 - Quant Internship Job Posts: 
 - Relevant Recruiters' LinkedIn Profiles: 
-  - [Clare Kanaley](https://www.linkedin.com/in/clare-kanaley/)
+  - [Clare Kanaley](https://www.linkedin.com/in/clare-kanaley/) - ckanaley@flowtraders.com
 
 ## Source of Information:
 
@@ -47,9 +47,9 @@
 ## Potential Challenges: 
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
+Emailed Claire 8/1/2023, waiting for reply.
 
 ## Application Status:
-No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
+Applications opened, applied 8/23.
 
 ## Updates:

@@ -53,6 +53,6 @@ LinkedIn and company website
 Emailed Sydney on 7/18/23, waiting for reply.
 
 ## Application Status:
-No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
+Applications open, applied 8/23. Received OA a couple days later, completed but I bombed it... Rejected from QR, waiting for trading response.
 
 ## Updates:

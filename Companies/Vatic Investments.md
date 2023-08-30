@@ -44,6 +44,6 @@ Internship lists Master's/PhD as requirement
 ## Strategy:
 
 ## Application Status:
-Sent email to Kayla 7/11/23, waiting for response.
+Applied 8/23.
 
 ## Updates:

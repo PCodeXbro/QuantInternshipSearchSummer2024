@@ -55,6 +55,6 @@ Mara replied 7/13/23 asking for resume, which I attached in my reply.
 Mara replied 7/24/23 suggesting I should apply for QTA role and suggesting I should add an additional interest or project on my resume that would be more relevant for quant recruiters.
 
 ## Application Status:
-Applications open, not yet applied.
+Applications open, applied, rejected.
 
 ## Updates:

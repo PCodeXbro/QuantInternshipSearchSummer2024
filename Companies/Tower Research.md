@@ -49,10 +49,12 @@
 
 ## Potential Challenges: 
 
+![[Pasted image 20230816164030.png]]
+
 ## Strategy:
 Sent email to Jaiyin 7/11/23, waiting for response.
 
 ## Application Status:
-Applications open, not yet applied.
+Applications open, applied.
 
 ## Updates:

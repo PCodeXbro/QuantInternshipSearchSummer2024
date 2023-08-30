@@ -53,8 +53,9 @@ LinkedIn and company site
 ## Strategy:
 Sent email to Brianna 7/11/23, waiting for response.
 Sent email to Caroline 7/24/23, waiting for response.
+OA complete, rejected.
 
 ## Application Status:
-Applications open, not yet applied.
+Applied, received OA 8/16/23, rejected.
 
 ## Updates:

@@ -47,9 +47,9 @@ First quant role I learned about, company culture seems fantastic, benefits soun
 ## Potential Challenges: 
 
 ## Strategy:
-Message Christine saying 'Grady told me to reach out' when internship opportunities open up.
+Waiting for OA results.
 
 ## Application Status:
-No open applications.
+Applied 8/9/23. Sent OA, completed 8/12/23.
 
 ## Updates:

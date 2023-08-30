@@ -42,9 +42,12 @@
 ## Potential Challenges: 
 Seems to want great university standing
 
+![[Pasted image 20230816164043.png]]
+
 ## Strategy:
+Complete OA ASAP.
 
 ## Application Status:
-Applications open, not yet applied.
+Applications open, applied 8/16/23. Sent OA 8/30.
 
 ## Updates:

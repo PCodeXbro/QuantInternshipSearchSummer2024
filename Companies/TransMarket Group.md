@@ -56,6 +56,6 @@ Chat with Maeve scheduled for 7/19/23 2PM on Google Meet.
 Chat went well, good clarifications about company, applied to QT internship.
 
 ## Application Status:
-Applications open, application submitted 7/19/23.
+Applications open, application submitted 7/19/23. Rejected.
 
 ## Updates:

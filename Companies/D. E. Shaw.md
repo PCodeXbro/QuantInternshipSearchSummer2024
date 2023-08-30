@@ -52,6 +52,6 @@ Extremely school-selective
 Attempted to email Margaret, email did not go through. Sent Margaret LinkedIn message.
 
 ## Application Status:
-Applications open, not yet applied.
+Applications open, applied 8/16/23.
 
 ## Updates:

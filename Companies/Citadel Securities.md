@@ -48,6 +48,6 @@ Emailed Stephanie 7/11/2023, waiting for response.
 "A good way to get into the interview pipeline is through Citadel's Data Open competition." - Northwestern Fintech club
 
 ## Application Status:
-Applications open, not yet applied.
+Applications open, applied 8/10/23 (same application as [Citadel](Citadel)). Rejected.
 
 ## Updates:

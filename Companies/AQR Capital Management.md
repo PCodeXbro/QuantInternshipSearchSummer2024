@@ -20,7 +20,8 @@
 - Company Website: https://www.aqr.com/
 - LinkedIn Page: https://www.linkedin.com/company/aqr-capital-management/
 - Quant Internship Job Posts: 
-  - https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927?gh_jid=4478927#/
+  - [Trading](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-trading-and-portfolio-finance-summer-analyst/5141007?gh_jid=5141007#/)
+  - [Research](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-research-summer-analyst/5004675?gh_jid=5004675#/)
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Amra Garcia-Tunon](https://www.linkedin.com/in/amra-garcia-tunon-3b956611/) - amra.garcia-tunon@aqr.com
 
@@ -50,8 +51,9 @@ QUANTA Academy sounds really interesting.
 
 ## Strategy:
 Sent email to Arma 7/11/23, waiting for response.
+Sent another email to Arma 8/9/23, waiting for response.
 
 ## Application Status:
-Applications open, not yet applied.
+Applications open, applied 8/23. Applications initially opened as 'express interest', however they seem fully open now.
 
 ## Updates:

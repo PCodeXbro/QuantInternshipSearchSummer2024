@@ -15,13 +15,15 @@
 ## Links:
 - Company Website: http://www.belvederetrading.com/
 - LinkedIn Page: https://www.linkedin.com/company/belvedere-trading-llc/
-- Quant Internship Job Posts: [Opens August]
+- Quant Internship Job Posts: 
+  - [SWE](https://jobs.lever.co/belvederetrading/f63b36b4-a5b6-4697-97cf-2af02a47e9d9)
+  - [Trading](https://jobs.lever.co/belvederetrading/2faf3199-5312-4f58-bbb4-4504d565168d)
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Lauren Masud](https://www.linkedin.com/in/lackovich/)
 
 ## Source of Information:
 
-## Trading Style:
+## Trading Style: 
 - Preferred Markets: 
 - Quant Trading Proportion: 
 
@@ -43,9 +45,11 @@
 ## Potential Challenges: 
 
 ## Strategy:
-I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process. Applications officially open August.
+Messaged Lauren 8/5/23, discussion tentatively scheduled for 8/10/23.
+
+Discussion went well, applied and completed OA.
 
 ## Application Status:
-No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
+Applied, completed OA.
 
 ## Updates:
