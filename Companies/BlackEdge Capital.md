@@ -12,6 +12,8 @@
 - Company Website: https://www.blackedge.com/
 - LinkedIn Page: https://www.linkedin.com/company/blackedge-capital/
 - Quant Internship Job Posts: 
+  - [Dev](https://boards.greenhouse.io/blackedgecapital/jobs/4310776005)
+  - [Trader](https://boards.greenhouse.io/blackedgecapital/jobs/4310773005)
 - Relevant Recruiters' LinkedIn Profiles: 
 
 ## Source of Information:
@@ -40,6 +42,6 @@
 ## Strategy:
 
 ## Application Status:
-No open applications.
+Applications open, applied 9/6.
 
 ## Updates:

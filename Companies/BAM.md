@@ -23,6 +23,7 @@
 - Company Website: https://www.bamfunds.com/
 - LinkedIn Page: https://www.linkedin.com/company/balyasny-asset-management-l.p./
 - Quant Internship Job Posts: 
+  - [Job Board](https://bambusdev.my.site.com/s/)
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Andrea Dunning](https://www.linkedin.com/in/andrea-dunning10/)
   - [Ashley Fisher](https://www.linkedin.com/in/ashley-fisher-09057a55/)
@@ -55,6 +56,6 @@
 I plan to reach out to the recruiter on LinkedIn, expressing my interest in the Quant Internship role and asking for more details about the application process.
 
 ## Application Status:
-No open applications. Planning to send a LinkedIn message to the recruiter on Monday.
+Applications open, applied 9/7.
 
 ## Updates:

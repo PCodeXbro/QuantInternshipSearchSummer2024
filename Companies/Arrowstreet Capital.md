@@ -47,6 +47,6 @@ High interview difficulty (According to Northwestern fintech club)
 Emailed Adriana 8/4/23, waiting for reply.
 
 ## Application Status:
-Applications open, applied 8/23.
+Applications open, applied 8/23. Rejected.
 
 ## Updates:

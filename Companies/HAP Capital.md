@@ -13,6 +13,7 @@
 - Company Website: https://www.hap-capital.com/
 - LinkedIn Page: https://www.linkedin.com/company/hap-capital/
 - Quant Internship Job Posts: 
+  - [Research](https://jobs.lever.co/hap-capital/4b795606-7dce-4e6b-b9ef-0b02fe9bf7f7)
 - Relevant Recruiters' LinkedIn Profiles: 
   - [Emily Donlon](https://www.linkedin.com/in/emily-donlon-5b7555103/)
   - [Shannon Rosati](https://www.linkedin.com/in/shannon-rosati-7a42b3161/)
@@ -43,6 +44,6 @@ LinkedIn and company site
 ## Strategy:
 
 ## Application Status:
-No open applications.
+Applications open, applied 9/6. Rejected.
 
 ## Updates:

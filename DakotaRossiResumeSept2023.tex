@@ -1,0 +1,190 @@
+\documentclass[letterpaper,10pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubheadingsix}[6]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+      \textit{\small#5} & \textit{\small #6} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeHeading}[2]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{}{\Large Dakota Rossi}} & Email : 
+  \href{mailto:dakotarossi04@gmail.com}{dakotarossi04@gmail.com}\\
+  \href{}{Data Analyst and Developer} & Mobile : 515 710 6204 \\
+\end{tabular*}
+
+%--------PROGRAMMING SKILLS------------
+\section{Skills}
+ \resumeSubHeadingListStart
+   \resumeSubItem{Techniques}{Time-Series Analysis, Regression Analysis, Hypothesis Testing, Statistical Modeling, Data Structures \& Algorithms}
+   \resumeSubItem{Tools}{Python, R, Java, Pandas, NumPy, Flask, PIL, SK-Learn, Linux, JMP, Neo4j, Excel, VBA, SQL, Git, Markdown, LaTeX}
+ \resumeSubHeadingListEnd
+
+%-----------INTERNSHIPS-----------------
+\section{Internships}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Soul Flower}{Summer 2023}
+      {Development Intern}{Des Moines, IA}
+      \resumeItemListStart
+        \resumeItem{Application Development}
+          {Developed a robust and intuitive application for linesheet creation and viewing using Python and Flask. This application automates the creation of linesheets, which used to take employees over 40 hours per sheet.}
+        \resumeItem{User Interface Design}
+          {Added functionalities for inventory management, file uploads, and PDF downloads. Tailored the user interface allowing image caching, file conversion, and data uploads to be both simple and efficient.}
+        \resumeItem{Data Integration}
+          {Harmonized data for various product categories, transforming diverse CSV file formats into a unified schema. Integrated harmonized data into SQLite database, improving data retrieval efficiency and manipulation.}
+        \resumeItem{Training and Documentation}
+          {Created a comprehensive user guide for the application and conducted personalized training sessions, helping non-technical staff to use the application effectively.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+
+ %-----------PROJECTS-----------------
+\section{Projects}
+  \resumeSubHeadingListStart
+
+    % FLIP THIS AROUND
+
+    \resumeHeading
+      {Football Prediction Model}{2020-2022}
+      \resumeItemListStart
+        \resumeItem{Continuous Development}
+          {Conducted extensive research on various sports databases to find the most complete options. Frequently revisited research, updating dataset selections as model requirements evolved and necessitated additional data.}
+        \resumeItem{Data Transformation}
+          {Used R to extract and normalize NFLfastR and cfbfastR package data to generate geographic and performance metrics per team. Used Python for efficient large-scale data transformations.}
+        \resumeItem{Model Creation, Analytics}
+          {Developed models using linear regression, random forest regression, a custom KNN regression model, amongst other methods. Tuned models with cross-validation, then combined into classifier for final predictions.}
+      \resumeItemListEnd
+
+    \resumeHeading
+      {Loan Default Classifier}{2022}
+      \resumeItemListStart
+        \resumeItem{Data ETL}
+          {Using Python, transformed data on defaulted loans with Pandas and NumPy for use in modeling and analytics. Data were sourced from MachineHack and Deloitte Global, and focused on bank loans distributed by Deloitte Global.}
+        \resumeItem{Modeling}
+          {Used Logistic Regression and KNN classification models on the dataset to predict if loans would default. Tuned models with k-fold cross-verification, performed logistic loss analysis, and created an ensemble model for final classifications.}
+      \resumeItemListEnd
+
+    \resumeHeading
+      {Visualizing COVID-19}{2023}
+      \resumeItemListStart
+        \resumeItem{Data Aquisition and Transformation}
+          {Acquired and transformed Maryland COVID testing data for analytics using R. Adjusted the data to account for outliers in daily case count and made data usable for clustering.}
+        \resumeItem{Visualization and Presentation}
+          {Used R to generate visualizations of COVID-19 case, hospitalization, and death data, normalized and segmented by demographic. Designed visualizations displaying case and death numbers across time, segmented by demographic clusters.}
+      \resumeItem{Analytics Summary}
+          {Authored a detailed, in-depth report on methodologies and conclusions, with visuals to help readers better understand the subject. Thoroughly analyzed research limitations and biases related to our findings. Explored implications of findings on the healthcare industry, and potential avenues for further data analysis and insights.}
+      \resumeItemListEnd
+
+
+  \resumeSubHeadingListEnd
+
+%-----------CLUBS-AND-ORGS-----------------
+\section{Club and Organizations}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Sports Analytics ISU}{}
+      {Member}{}
+      \resumeItemListStart
+        \resumeItem{Modeling}
+          {Created several models utilizing R and Python for analysis on data from sportsdataverse. Models were based on linear and logistic regression and could take sports statistics as input, compare the relative performance of teams, and made predictions of final scores and winning odds across many different sports leagues.}
+        \resumeItem{Competitive Analytics}
+          {Used ensemble sports prediction models in inter-organization competitions, where members would make score and standing predictions across various sports leagues and compare results. Continued to expand on sport models, testing limits of regression when compared to other machine learning models.}
+        \resumeItem{Club Organization}
+          {Participated in meetings and guest speaker events featuring industry professionals in sports data science. Notably engaged in a detailed discussion and Q+A with the Director of Football Research and Strategy for the Buffalo Bills.}
+        \resumeItem{Peer Mentoring}
+          {Provided foundational R programming instruction, collaborated on sportsdataverse API operations, and guided new members on analytics strategies in sports data analysis.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheadingsix
+      {Iowa State University}{Ames, IA}
+      {B.S. Data Science}{Fall 2021 - Spring 2025}
+      {Minors: Apparel Merchandising and Design, Artificial Intelligence}{}
+
+  \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}

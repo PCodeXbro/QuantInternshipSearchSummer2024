@@ -48,6 +48,6 @@ Beautiful office, very unique culture.
 Sent email to Lucinda 7/11/23, waiting for response.
 
 ## Application Status:
-Applications open, not yet applied.
+Applications open. Applied, rejected.
 
 ## Updates:
